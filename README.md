@@ -16,10 +16,10 @@ I love developing **software** and understanding how things work. My knowledge r
 
 ## Projects ⚙️
 
-- [**Service IDE**](https://github.com/MicheleManfrediRinaldi/ServiceIDE) - Visual drag-and-drop platform for IoT workflow design 🎯
+- [**Service IDE**](https://github.com/MicheleArmillotta/IoTThings) - Visual drag-and-drop platform for IoT workflow design 🎯
 - [**Rubik Solver**](https://github.com/MicheleManfrediRinaldi/RubikSolver) - Android app using computer vision 🎮
-- [**AutoNetGen**](https://github.com/MicheleManfrediRinaldi/AutoNetGen) - Network traffic analysis and cloud infrastructure generation using Terraform 🌐
-- [**Retro Console**](https://github.com/MicheleManfrediRinaldi/RetroConsole) - Distributed gaming console with Raspberry Pi and ESP32 🕹️
+- [**AutoNetGen**](https://github.com/vincenzo426/autonetgen) - Network traffic analysis and cloud infrastructure generation using Terraform 🌐
+- [**Retro Console**](https://github.com/MicheleManfrediRinaldi/brick-breaker-console) - Distributed gaming console with Raspberry Pi and ESP32 🕹️
 
 ---
 
