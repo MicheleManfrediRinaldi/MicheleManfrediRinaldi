@@ -28,7 +28,7 @@ I love developing **software** and understanding how things work. My knowledge r
 ## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-MicheleManfrediRinaldi-181717?style=for-the-badge&logo=github)](https://github.com/MicheleManfrediRinaldi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michele%20Manfredi%20Rinaldi-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/Michele-Manfredi-Rinaldi](https://www.linkedin.com/in/michele-manfredi-rinaldi-815007330/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michele%20Manfredi%20Rinaldi-0077B5?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/michele-manfredi-rinaldi-815007330/))
 [![Email](https://img.shields.io/badge/Email-michelemanfredi.rinaldi2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michelemanfredi.rinaldi2@gmail.com)
 
 ## Tech Stack 🛠️
