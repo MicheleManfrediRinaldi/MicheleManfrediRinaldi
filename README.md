@@ -11,11 +11,12 @@ I love developing **software** and understanding how things work. My knowledge r
 
 ## Work experiences 💼
 
+-Intern at [Hazeware](https://www.hazeware.it/)
 - Intern at **Deasoft S.R.L**
-- Project activity at **Bi-Rex**
+- Project activity at [Bi-rex](https://bi-rex.it/)
 
 ## Projects ⚙️
-
+- [**UA-FX Framework**](https://github.com/MicheleManfrediRinaldi/tesu-uafx) - Discovery e visualizzazione della topologia di rete e gestione delle connessioni PubSub per reti industriali TSN/OPC UA FX 🕸️
 - [**Service IDE**](https://github.com/MicheleArmillotta/IoTThings) - Visual drag-and-drop platform for IoT workflow design 🎯
 - [**Rubik Solver**](https://github.com/MicheleManfrediRinaldi/RubikSolver) - Android app using computer vision 🎮
 - [**AutoNetGen**](https://github.com/vincenzo426/autonetgen) - Network traffic analysis and cloud infrastructure generation using Terraform 🌐
