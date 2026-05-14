@@ -20,7 +20,7 @@ I love developing **software** and understanding how things work. My knowledge r
 - [**Service IDE**](https://github.com/MicheleArmillotta/IoTThings) - Visual drag-and-drop platform for IoT workflow design 🎯
 - [**Rubik Solver**](https://github.com/MicheleManfrediRinaldi/RubikSolver) - Android app using computer vision 🎮
 - [**AutoNetGen**](https://github.com/vincenzo426/autonetgen) - Network traffic analysis and cloud infrastructure generation using Terraform 🌐
-- [**Retro Console**](https://github.com/MicheleManfrediRinaldi/brick-breaker-console) - Distributed gaming console with Raspberry Pi and ESP32 🕹️
+- [**Retro Console**](https://github.com/MicheleManfrediRinaldi/brick-breaker-console.git) - Distributed gaming console with Raspberry Pi and ESP32 🕹️
 
 ---
 
