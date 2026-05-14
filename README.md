@@ -11,9 +11,9 @@ I love developing **software** and understanding how things work. My knowledge r
 
 ## Work experiences 💼
 
--Intern at [Hazeware](https://www.hazeware.it/)
+- Intern at [**Hazeware**](https://www.hazeware.it/)
+- Project activity at [**Bi-rex**](https://bi-rex.it/)
 - Intern at **Deasoft S.R.L**
-- Project activity at [Bi-rex](https://bi-rex.it/)
 
 ## Projects ⚙️
 - [**UA-FX Framework**](https://github.com/MicheleManfrediRinaldi/tesi-uafx) - Discovery e visualizzazione della topologia di rete e gestione delle connessioni PubSub per reti industriali TSN/OPC UA FX 🕸️
